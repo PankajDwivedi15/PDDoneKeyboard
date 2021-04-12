@@ -1,0 +1,22 @@
+{
+  "name": "PDDoneKeyboard",
+  "version": "0.1.0",
+  "summary": "A short description of PDDoneKeyboard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pankajdwivedi1510@gmail.com/PDDoneKeyboard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pankajdwivedi1510@gmail.com": "Pankaj.Dwivedi3@T-Mobile.com"
+  },
+  "source": {
+    "git": "https://github.com/pankajdwivedi1510@gmail.com/PDDoneKeyboard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PDDoneKeyboard/Classes/**/*"
+}

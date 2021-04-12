@@ -1,0 +1,16 @@
+PODS:
+  - PDDoneKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - PDDoneKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  PDDoneKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PDDoneKeyboard: 0e549392f0de5d8b6669d45b0dae742e9c01ead2
+
+PODFILE CHECKSUM: e8da505b1fef122327bd04b5dac2fa29956cf09a
+
+COCOAPODS: 1.10.1
